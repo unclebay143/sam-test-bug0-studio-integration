@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bug0/ai": "^2.0.26",
+    "@playwright/test": "1.57.0",
+    "@azure/identity": "^4.13.0",
+    "@azure/playwright": "^1.1.0",
+    "@types/node": "^22.13.10",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.0.0"
+  },
+  "name": "TaskFlow",
+  "description": "Playwright tests for TaskFlow"
+}
